@@ -173,3 +173,17 @@ Add a [new release to GitHub](https://github.com/apache/parquet-java/releases/ne
     Java artifacts are available from Maven Central.
 
     Thanks to everyone for contributing!
+
+#### 6\. Update parquet-format with feature enablement guidance
+
+The recommendations for other implementations to enable a feature is generally tied to releases
+of parquet-java (details are in the parquet-format repo).  As releases are made the 
+specification should be updated to indicate the recommended dates for enabling new features by 
+default.
+
+
+### Release Cadence 
+
+Provided enough volunteers are available the Parquet community aims to have releases on a quarterly
+basis (Targets months are January, April, July and October).  If forward incompatible features
+are added over the course of the year, the October release will be targetted as a major release.
