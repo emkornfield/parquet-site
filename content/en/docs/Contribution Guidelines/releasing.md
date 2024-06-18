@@ -1,6 +1,6 @@
 ---
-title: "Releasing Parquet"
-linkTitle: "Releasing Parquet"
+title: "Releasing Parquet-Java"
+linkTitle: "Releasing Parquet-Java"
 weight: 4
 description: >
   How to release Parquet-Java
