@@ -176,7 +176,7 @@ Add a [new release to GitHub](https://github.com/apache/parquet-java/releases/ne
 
 #### 6\. Update parquet-format with feature enablement guidance
 
-The recommendations for other feature enablment is generally tied to releases of
+The recommendations for other feature enablement is generally tied to releases of
 parquet-java (details are in the parquet-format repo).  As releases are made the
 specification should be updated to indicate the recommended dates for when a new
 feature may be enabled.
