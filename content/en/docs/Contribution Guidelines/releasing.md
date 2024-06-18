@@ -176,14 +176,13 @@ Add a [new release to GitHub](https://github.com/apache/parquet-java/releases/ne
 
 #### 6\. Update parquet-format with feature enablement guidance
 
-The recommendations for other implementations to enable a feature is generally tied to releases
+The recommendations for other feature enablment is generally tied to releases
 of parquet-java (details are in the parquet-format repo).  As releases are made the 
-specification should be updated to indicate the recommended dates for enabling new features by 
-default.
+specification should be updated to indicate the recommended dates 
+for when a new feature may be enabled.
 
 
 ### Release Cadence 
 
 Provided enough volunteers are available the Parquet community aims to have releases on a quarterly
-basis (Targets months are January, April, July and October).  If forward incompatible features
-are added over the course of the year, the October release will be targetted as a major release.
+basis (Targets months are January, April, July and October). If a new major version is necessary it will be targetted for the October release.
