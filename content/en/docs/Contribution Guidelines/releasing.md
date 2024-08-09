@@ -8,6 +8,8 @@ description: >
 
 ### Setup
 
+N.B. The mechanics of releasing parquet-format is the same (e.g. setting up keys, branching, votes, etc)
+
 You will need: 
 
 - PGP code signing keys, published in [KEYS](https://downloads.apache.org/parquet/KEYS).
